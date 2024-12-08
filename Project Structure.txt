@@ -1,0 +1,6 @@
+.
+├── app.py               # Main application script
+├── intents.json         # Dataset of intents and patterns
+├── requirements.txt     # List of dependencies
+├── chat_log.csv         # Log file for conversation history
+└── README.md            # Project documentation
