@@ -30,4 +30,9 @@ The chatbot uses **Logistic Regression**, a supervised machine learning algorith
 - **Others:** `os`, `datetime`, `random`  
 
 ### Dataset  
-- A JSON file containing labeled intents and associated patterns, used for training the chatbot to understand user queries.  
+- A JSON file containing labeled intents and associated patterns, used for training the chatbot to understand user queries. 
+
+## How to run 
+- 1) open terminal
+  2) change directory to file location
+  3) run command streamlit run app.py
