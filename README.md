@@ -33,7 +33,7 @@ The chatbot uses **Logistic Regression**, a supervised machine learning algorith
 - A JSON file containing labeled intents and associated patterns, used for training the chatbot to understand user queries. 
 
 ## How to run 
-step 1. open terminal.
-step 2. change directory to file location.
-step 3. run the command:
+-step 1. open terminal.
+-step 2. change directory to file location.
+-step 3. run the command:
           streamlit run app.py
